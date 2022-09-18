@@ -1,0 +1,52 @@
+.imgprr {
+
+
+}
+.imgprr img{
+  height: 130px;
+  width: 150px;
+
+  margin-top: 20px;
+}
+.block{
+  text-align: center;
+  border: 1px;
+  border-style: solid;
+  height: 300px;
+  width: 300px;
+  margin-left: 400px;
+  background-color: bisque;
+  border-radius: 10px;
+  margin-top: 100px;
+}
+.name p{
+  font-family: 'Cinzel', serif;
+  font-family: 'Cinzel Decorative', cursive;
+  font-family: 'Lora', serif;
+  /* margin-top : 170px;  */
+}
+.name span{
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.adress p{
+  font-family: 'Cinzel', serif;
+  font-family: 'Cinzel Decorative', cursive;
+  font-family: 'Lora', serif;
+  font-size: 13px;
+}
+.adress span{
+  font-size: 20px;
+  font-weight: bold;
+}
+.email p{
+  font-family: 'Cinzel', serif;
+  font-family: 'Cinzel Decorative', cursive;
+  font-family: 'Lora', serif;
+  /* margin-top : 170px;  */
+}
+.email span{
+  font-size: 20px;
+  font-weight: bold;
+}
